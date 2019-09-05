@@ -1,0 +1,12 @@
+[package]
+name = "profile-bot"
+version = "0.1.0"
+authors = ["Kellen Frodelius-Fujimoto <kellen@kellenfujimoto.com>"]
+edition = "2018"
+description = "A simple Telegram bot for greeting users and providing short bios"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
